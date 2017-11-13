@@ -23,3 +23,7 @@ Ran the location trees.
 Interesting data.
 Thinking about some other studies now.
 
+
+
+## 11/13/2017
+I just modified the readme. Just let you know. 
